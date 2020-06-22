@@ -12,8 +12,15 @@ namespace Aula22AtributosEstaticos
         }
 
         public static float CoverterDolarparaReal(float valor){
-            return valor / CotacaoDolar;
+            return valor * CotacaoDolar;
         }
 
+        public static float CoverterEuroparaReal(float valor){
+            return valor * CotacaoEuro;
+        }
+        
+           public static float CoverterRealparaEuro(float valor){
+            return valor / CotacaoEuro;
+        }
     }
 }

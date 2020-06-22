@@ -1,0 +1,13 @@
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula22AtributosEstaticos\bin\Debug\netcoreapp3.1\Aula22AtributosEstaticos.exe
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula22AtributosEstaticos\bin\Debug\netcoreapp3.1\Aula22AtributosEstaticos.deps.json
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula22AtributosEstaticos\bin\Debug\netcoreapp3.1\Aula22AtributosEstaticos.runtimeconfig.json
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula22AtributosEstaticos\bin\Debug\netcoreapp3.1\Aula22AtributosEstaticos.runtimeconfig.dev.json
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula22AtributosEstaticos\bin\Debug\netcoreapp3.1\Aula22AtributosEstaticos.dll
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula22AtributosEstaticos\bin\Debug\netcoreapp3.1\Aula22AtributosEstaticos.pdb
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula22AtributosEstaticos\obj\Debug\netcoreapp3.1\Aula22AtributosEstaticos.csprojAssemblyReference.cache
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula22AtributosEstaticos\obj\Debug\netcoreapp3.1\Aula22AtributosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula22AtributosEstaticos\obj\Debug\netcoreapp3.1\Aula22AtributosEstaticos.AssemblyInfoInputs.cache
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula22AtributosEstaticos\obj\Debug\netcoreapp3.1\Aula22AtributosEstaticos.AssemblyInfo.cs
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula22AtributosEstaticos\obj\Debug\netcoreapp3.1\Aula22AtributosEstaticos.dll
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula22AtributosEstaticos\obj\Debug\netcoreapp3.1\Aula22AtributosEstaticos.pdb
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula22AtributosEstaticos\obj\Debug\netcoreapp3.1\Aula22AtributosEstaticos.genruntimeconfig.cache
